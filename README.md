@@ -5,4 +5,4 @@ Air quality data of 377 cities in China
 https://www.aqistudy.cn/historydata/index.php
 
 # Code 
-based on https://github.com/xin5683/get_aqi
+Based on https://github.com/xin5683/get_aqi
